@@ -81,7 +81,7 @@ Token launches today are dominated by insiders — presales, team allocations, a
 **Acceptance Criteria:**
 - Any wallet submits CTO request from token page (off-chain signature, no gas)
 - Provides: new fee destination wallet, Telegram / X contact
-- CafeFun team reviews manually (CafeFun team reviews)
+- CafeFun team reviews manually
 - On approval: owner-restricted function reassigns creator fee to new wallet
 - Only applies to tokens launched on the current factory
 
